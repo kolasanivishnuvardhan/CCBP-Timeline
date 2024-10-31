@@ -1,0 +1,28 @@
+.project-timeline-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 420px;
+}
+
+.project-img {
+  width: 100%;
+}
+
+.heading-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.calender-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.visit{
+  text-decoration: none;
+}
